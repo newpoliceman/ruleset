@@ -1,5 +1,5 @@
 payload:
   # (baiduyun)
   # > baiduyun
-  - DOMAIN,pan.baidu.com
+  - ‘pan.baidu.com’
 
